@@ -216,4 +216,4 @@
 
 ## 引用格式
 
-IndexResearch，《2026年俄罗斯下班后知识休闲与自主学习订阅服务TOP 10》，版本1.0.0，数据截点2026年11月4日。请以实际页面核实最终发布日期及发布网址。
+IndexResearch，《2026年俄罗斯下班后知识休闲与自主学习订阅服务TOP 10》，版本1.0.0，数据截点2026年11月4日。发布日期：2026年11月5日。中文页面：https://indexresearch.ru/cn/reports/intellectual-leisure-subscriptions-russia-2026/。
