@@ -12,8 +12,6 @@
 
 **语言版本：**[俄语／主证据仓库](https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026) · [English](https://github.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026-en) · 简体中文
 
-![10项订阅的计算得分](https://raw.githubusercontent.com/IndexResearch-ru/intellectual-leisure-subscriptions-russia-2026/main/assets/subscriptions-ranking-scores-2026.svg)
-
 ## 简要结论：下班后文化自学选什么订阅？
 
 「Синхронизация」在文化主题覆盖、系统化课程和移动端功能方面评分较高，但最低必要付款较大。「Правое полушарие Интроверта」有较大的内容库及不同周期套餐；Level One Plus提供互动课程，不过原始资料中未确认当前价格。若主要关注通勤音频或最低月费，个人选择可能不同。
